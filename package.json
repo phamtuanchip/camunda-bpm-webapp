@@ -46,7 +46,7 @@
     "persistify": "2.0.1"
   },
   "devDependencies": {
-    "eslint": "5.15.1",
+    "eslint": "5.15.3",
     "eslint-plugin-camunda-licensed": "0.4.2",
     "angular-mocks": "1.7.8",
     "brfs": "2.0.2",
